@@ -1,0 +1,10 @@
+git init - initialize a folder to a git repository 
+git status - checks the status 
+git add [filename/./-A/--all] - ways to add the file into the repository 
+git commit -m - taking a snapshot with a message
+git diff - to check the difference between the committed file and the change which we did
+
+git branch -M main
+git push -u origin main
+
+These are used to push my committed changes to the git hub repo
